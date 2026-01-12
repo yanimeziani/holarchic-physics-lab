@@ -1,3 +1,7 @@
+# holarchic-physics-lab
+
+Explore the mathematical concepts that rule the fundamentals of our world with your eyes and mind.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
